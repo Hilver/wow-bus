@@ -81,7 +81,6 @@ export default {
     border: 1px solid #dedede;
     border-radius: 0px;     
 }
-
 .inner-addon {
     position: relative;
     margin: 0px;
@@ -105,13 +104,11 @@ export default {
 label {
     padding-bottom: 2px!important;
 }
-
 button:focus {
     outline: none!important;
     border: none;
     background-color: transparent;
 }
-
 .fade-enter-active, .fade-leave-active {
   transition: opacity .5s;
 }
